@@ -1,0 +1,1 @@
+This file is created to check how to move a file from stagging area to working tree?
